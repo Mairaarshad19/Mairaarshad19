@@ -128,40 +128,7 @@ Over the past year, I've worked on projects ranging from **RESTful APIs and full
 
 ---
 
-# Featured Projects
-
-<details open>
-<summary><b>🤖 FlyRank Internship — Backend AI Engineering</b></summary>
-
-### Overview
-
-A backend engineering project completed as part of the **FlyRank AI Backend Engineering Internship**, focused on understanding REST API fundamentals, backend architecture, and production-oriented development workflows.
-
-Instead of relying on frameworks or templates, the emphasis was placed on building clean, maintainable server-side code while following software engineering best practices.
-
----
-
-| Category | Details |
-|-----------|----------|
-| **Role** | Backend Engineering Intern |
-| **Stack** | Node.js • Express.js • JavaScript • REST APIs |
-| **Architecture** | Modular Express Application |
-| **API Design** | JSON-based REST Endpoints |
-| **Version Control** | Git & GitHub |
-
-### Key Highlights
-
-- Developed RESTful API endpoints following clean routing principles.
-- Built structured JSON responses for client-server communication.
-- Applied modular backend organization for maintainability.
-- Tested endpoints using browser requests and Postman.
-- Practiced professional Git workflows throughout development.
-
-### Skills Demonstrated
-
-`Backend Development` • `Express.js` • `REST APIs` • `Git` • `API Testing`
-
-**Repository**
+# Projects Repositories
 
 🔗 https://github.com/Mairaarshad19/FlyRankInternship-BackendAIEngineering
 
