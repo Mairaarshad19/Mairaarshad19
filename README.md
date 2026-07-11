@@ -130,6 +130,39 @@ Over the past year, I've worked on projects ranging from **RESTful APIs and full
 
 # Projects Repositories
 
+<details open>
+<summary><b>🤖 FlyRank Internship — Backend AI Engineering</b></summary>
+
+### Overview
+
+A backend engineering project completed as part of the **FlyRank AI Backend Engineering Internship**, focused on understanding REST API fundamentals, backend architecture, and production-oriented development workflows.
+
+Instead of relying on frameworks or templates, the emphasis was placed on building clean, maintainable server-side code while following software engineering best practices.
+
+---
+
+| Category | Details |
+|-----------|----------|
+| **Role** | Backend Engineering Intern |
+| **Stack** | Node.js • Express.js • JavaScript • REST APIs |
+| **Architecture** | Modular Express Application |
+| **API Design** | JSON-based REST Endpoints |
+| **Version Control** | Git & GitHub |
+
+### Key Highlights
+
+- Developed RESTful API endpoints following clean routing principles.
+- Built structured JSON responses for client-server communication.
+- Applied modular backend organization for maintainability.
+- Tested endpoints using browser requests and Postman.
+- Practiced professional Git workflows throughout development.
+
+### Skills Demonstrated
+
+`Backend Development` • `Express.js` • `REST APIs` • `Git` • `API Testing`
+
+**Repository**
+
 🔗 https://github.com/Mairaarshad19/FlyRankInternship-BackendAIEngineering
 
 </details>
@@ -450,15 +483,6 @@ Developing mobile applications while strengthening Flutter development and softw
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mairaarshad19&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 # Contribution Activity
 
@@ -467,18 +491,6 @@ Developing mobile applications while strengthening Flutter development and softw
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mairaarshad19&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mairaarshad19/Mairaarshad19/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Note:** Enable the GitHub Action that generates the snake animation after creating your profile repository.
 
 ---
 
