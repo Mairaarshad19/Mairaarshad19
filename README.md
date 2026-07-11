@@ -15,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maira-arshad-3a8955334)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mairaarshad19)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2024cs81@student.uet.edu.pk)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mairaarshad019@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mairaarshad19&color=4834d4&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Mairaarshad19?style=for-the-badge&color=8A7CFF&labelColor=1a1a2e)
@@ -35,7 +35,7 @@ mindset: Ship, iterate, learn — repeat
 open_to: [ Internships, Backend/AI Engineering roles, Open Source Collaboration, Study Partnerships ]
 ```
 
-I'm a Computer Science undergraduate at UET Lahore, building my way into **backend and AI engineering** one project at a time — from C# desktop systems with real algorithmic cores (Dijkstra's, priority queues) to Express.js APIs and voice-controlled embedded systems. Currently deepening my AI engineering fluency through a structured internship at **FlyRank**, and applying what I learn to real client-facing work like the **Allied Shipping Agency** website build.
+I'm a Computer Science undergraduate at UET Lahore, building my way into **backend and AI engineering** one project at a time — from C# desktop systems with real algorithmic cores (Dijkstra's, priority queues) to Express.js APIs and voice-controlled embedded systems. Right now I'm juggling two active internships: an **AI Fluency track (Backend + General AI) at FlyRank**, and a **Mobile App Development internship at DevInfantary**.
 
 I care more about understanding *why* something works than shipping something that just looks like it works — which is why my repos lean toward systems with real logic underneath (graph algorithms, hardware I/O, database-backed apps) rather than templated demos.
 
@@ -78,7 +78,7 @@ I care more about understanding *why* something works than shipping something th
 | Domain | Current Level | Tools I Use | Learning Goals |
 |---|---|---|---|
 | Backend Engineering | Building real REST APIs | Node.js, Express.js, Flask | System design, FastAPI, CI/CD |
-| AI Engineering | Applied learning (internship track) | Python | Prompt engineering, AI workflow tooling |
+| AI Engineering | Applied learning (2 active internship tracks) | Python | Prompt engineering, AI workflow tooling |
 | Full-Stack Development | Comfortable end-to-end | React, Node.js, MongoDB, MySQL | Cleaner architecture, testing |
 | Databases | SQL fundamentals, MySQL in production-style apps | MySQL, MongoDB | Query optimization, schema design |
 | DevOps | Early stage | Git, GitHub | Docker, AWS, CI/CD pipelines |
@@ -102,9 +102,19 @@ I care more about understanding *why* something works than shipping something th
 
 **Repository:** [FlyRankInternship-BackendAIEngineering](https://github.com/Mairaarshad19/FlyRankInternship-BackendAIEngineering)
 
-**Future Improvements:** Add request validation, error handling middleware, and expand endpoint coverage as the internship progresses.
-
 **Skills Demonstrated:** REST API design, Express.js fundamentals, local testing workflows
+
+</details>
+
+<details>
+<summary><b>🧠 FlyRank Internship — General AI Fluency</b></summary>
+<br/>
+
+**Overview:** Weekly structured assignments building general AI fluency — covering the practical, applied side of working with AI tools and workflows as part of the FlyRank internship program.
+
+**Repository:** [FlyRankInternship-GeneralAIFluency](https://github.com/Mairaarshad19/FlyRankInternship-GeneralAIFluency)
+
+**Skills Demonstrated:** Applied AI workflow fundamentals, structured task execution, documentation
 
 </details>
 
@@ -123,8 +133,6 @@ I care more about understanding *why* something works than shipping something th
 - Built as a team project with a full academic report and data flow diagram
 
 **Repository:** [VOXLINK-VoiceAutomation](https://github.com/Mairaarshad19/VOXLINK-VoiceAutomation)
-
-**Future Improvements:** Expand voice command vocabulary, add multi-device scheduling, explore Wi-Fi fallback for extended range.
 
 **Skills Demonstrated:** Embedded systems integration, mobile-to-hardware communication, offline-first design
 
@@ -170,64 +178,37 @@ I care more about understanding *why* something works than shipping something th
 </details>
 
 <details>
-<summary><b>🚢 Allied Shipping Agency — Marketing Website</b></summary>
+<summary><b>🌐 Portfolio</b></summary>
 <br/>
 
-**Overview:** A single-page marketing website for a real freight forwarding business, built with a defined design system and content brief rather than placeholder content.
-
-**Technology Stack:** Next.js 14, TypeScript, Tailwind CSS, Framer Motion
-
-**Key Features:**
-- Ten-section structured layout
-- Custom navy/gold/warm-beige design system with Inter typography
-- Motion-driven UI with Framer Motion
-
-**Repository:** *In progress — not yet public*
-
-**Skills Demonstrated:** Modern React frameworks, design systems, animation-driven frontend engineering
-
-</details>
-
-<details>
-<summary><b>🧩 Amazon Homepage Clone</b></summary>
-<br/>
-
-**Overview:** A front-end clone replicating the look and feel of Amazon's landing page.
-
-**Technology Stack:** HTML, CSS, JavaScript
-
-**Repository:** [AmazonHomepageClone](https://github.com/Mairaarshad19/AmazonHomepageClone)
-
-**Skills Demonstrated:** Layout precision, responsive design, vanilla JS interactivity
-
-</details>
-
-<br/>
 
 ## 💼 Experience
 
-**AI Fluency Intern — FlyRank** *(Current)*
-- Working through structured weekly assignments in AI engineering fundamentals
+**AI Fluency Intern (Backend + General AI tracks) — FlyRank** *(Current)*
+- Working through structured weekly assignments across both the Backend AI Engineering and General AI Fluency tracks
 - Built and tested backend REST endpoints with Express.js
 - Practicing professional Git/GitHub workflows (branching, remotes, commit hygiene)
+
+**Mobile App Development Intern — DevInfantary** *(Current)*
+- Contributing to mobile app development as part of the internship program
 
 <br/>
 
 ## 🏆 Achievements
 
 - Consistent hands-on GitHub activity across backend, AI, and embedded-systems projects
-- Completed real internship deliverables (FlyRank AI fluency track)
+- Currently balancing two concurrent internships (FlyRank + DevInfantary)
 - Independently designed and built multiple full-stack/desktop systems with real algorithmic components (not just CRUD apps)
 
 <br/>
 
 ## 📜 Certifications
 
+- HackerRank — SQL (Basic)
+- HackerRank — SQL (Intermediate)
+
 **Currently Pursuing**
-- AWS Cloud Practitioner
-- Docker
-- GitHub Foundations
-- Machine Learning
+- AI & Data Science — Beginner Course, Honhaar Jawan
 
 <br/>
 
@@ -235,11 +216,9 @@ I care more about understanding *why* something works than shipping something th
 
 <div align="center">
 
-<!-- Add your usernames and these will populate automatically -->
-![LeetCode](https://img.shields.io/badge/LeetCode-Add_Username-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Add_Username-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-Add_Username-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-Add_Username-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+<!-- Replace YOUR_USERNAME with your actual LeetCode / HackerRank usernames -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_USERNAME)
 
 </div>
 
@@ -260,15 +239,6 @@ I care more about understanding *why* something works than shipping something th
 
 <br/>
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mairaarshad19&theme=algolia&no-frame=true&margin-w=8&row=1&column=6" />
-
-</div>
-
-<br/>
 
 ## 📉 Contribution Graph
 
@@ -280,24 +250,13 @@ I care more about understanding *why* something works than shipping something th
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mairaarshad19/Mairaarshad19/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
-<blockquote>To enable this: add a GitHub Action (<code>Platane/snk</code>) to your <code>Mairaarshad19/Mairaarshad19</code> repo — it auto-generates this SVG.</blockquote>
-
-<br/>
 
 ## 🎯 Current Focus
 
 ```yaml
-Learning:   [ AI Engineering Fluency, System Design, FastAPI, Docker, AWS ]
-Building:   [ Allied Shipping Agency Website, Portfolio Site ]
-Exploring:  [ CI/CD Pipelines, Cloud Deployment ]
+Learning:   [ AI Engineering Fluency, System Design, FastAPI, Docker, AWS, AI & Data Science (Honhaar Jawan) ]
+Building:   [ Portfolio Site, Allied Shipping Agency Website ]
+Exploring:  [ CI/CD Pipelines, Cloud Deployment, Mobile App Development ]
 OpenTo:     [ Backend Engineering Internships, AI Engineering Internships, Open Source Collaboration ]
 ```
 
@@ -309,7 +268,7 @@ OpenTo:     [ Backend Engineering Internships, AI Engineering Internships, Open 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mairaarshad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maira-arshad-3a8955334)
 [![GitHub](https://img.shields.io/badge/GitHub-Mairaarshad19-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mairaarshad19)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2024cs81@student.uet.edu.pk)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mairaarshad019@gmail.com)
 
 </div>
 
