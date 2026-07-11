@@ -1,283 +1,616 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4834d4,100:686de0&height=220&section=header&text=Maira%20Arshad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer%20in%20the%20Making&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:6366f1,100:8b5cf6&height=240&section=header&text=Maira%20Arshad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20|%20Backend%20Developer%20|%20AI%20Engineering%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A7CFF&center=true&vCenter=true&width=600&lines=BS+Computer+Science+%40+UET+Lahore;Backend+%2B+AI+Engineering+Enthusiast;Learning+in+Public%2C+Building+in+Public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%40+UET+Lahore;Backend+Engineering+%7C+Artificial+Intelligence;Building+Scalable+Software+and+AI+Solutions;Always+Learning.+Always+Building."/>
 </a>
 
-<br/>
+<br><br>
 
-![Academic](https://img.shields.io/badge/BS_Computer_Science-UET_Lahore-4834d4?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Class](https://img.shields.io/badge/Class_of-2028-686de0?style=for-the-badge)
-![AI Dev](https://img.shields.io/badge/AI-Developer-8A7CFF?style=for-the-badge&logo=openai&logoColor=white)
-![Backend Dev](https://img.shields.io/badge/Backend-Developer-5c4dff?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/University-UET%20Lahore-4338CA?style=for-the-badge&logo=googlescholar&logoColor=white)
+![](https://img.shields.io/badge/Degree-BS%20Computer%20Science-6366F1?style=for-the-badge)
+![](https://img.shields.io/badge/Backend-Engineering-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Artificial-Intelligence-8B5CF6?style=for-the-badge)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maira-arshad-3a8955334)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mairaarshad19)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mairaarshad019@gmail.com)
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mairaarshad19&color=4834d4&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Mairaarshad19?style=for-the-badge&color=8A7CFF&labelColor=1a1a2e)
+<a href="mailto:mairaarshad019@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/maira-arshad-3a8955334">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mairaarshad19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Mairaarshad19&style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/github/followers/Mairaarshad19?style=for-the-badge&color=6366F1)
+
+![](https://img.shields.io/github/stars/Mairaarshad19?affiliations=OWNER&style=for-the-badge&color=8B5CF6)
 
 </div>
 
-<br/>
+---
 
-## 🧠 About Me
+# About Me
 
-```yaml
-name: Maira Arshad
-role: CS Undergraduate | Aspiring Backend & AI Engineer
-university: University of Engineering & Technology (UET), Lahore
-focus: Building scalable backend systems and AI-powered applications
-mindset: Ship, iterate, learn — repeat
-open_to: [ Internships, Backend/AI Engineering roles, Open Source Collaboration, Study Partnerships ]
-```
+I'm a **Computer Science undergraduate at the University of Engineering & Technology (UET), Lahore**, passionate about building reliable backend systems and intelligent software powered by Artificial Intelligence.
 
-I'm a Computer Science undergraduate at UET Lahore, building my way into **backend and AI engineering** one project at a time — from C# desktop systems with real algorithmic cores (Dijkstra's, priority queues) to Express.js APIs and voice-controlled embedded systems. Right now I'm juggling two active internships: an **AI Fluency track (Backend + General AI) at FlyRank**, and a **Mobile App Development internship at DevInfantary**.
+My interests lie at the intersection of **Software Engineering, Backend Development, AI Engineering, and Data-Driven Applications**. I enjoy designing systems that emphasize clean architecture, maintainability, and practical problem solving rather than simply implementing features.
 
-I care more about understanding *why* something works than shipping something that just looks like it works — which is why my repos lean toward systems with real logic underneath (graph algorithms, hardware I/O, database-backed apps) rather than templated demos.
+Over the past year, I've worked on projects ranging from **RESTful APIs and full-stack web applications** to **graph-based routing systems**, **voice-controlled embedded solutions**, and **database-backed desktop applications**. I'm currently strengthening my expertise through AI-focused internships while continuously expanding my knowledge of backend engineering, cloud technologies, and modern software development practices.
 
-<br/>
+### Currently Open To
 
-## 🛠️ Tech Stack
+- Backend Engineering Internships
+- AI / Machine Learning Internships
+- Software Engineering Internships
+- Open Source Collaboration
+- Technical Communities & Student Programs
+
+---
+
+# Tech Stack
 
 <div align="center">
 
-**Languages**
+## Programming Languages
 
-![Skills](https://skillicons.dev/icons?i=py,js,java,cpp,html,css)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css"/>
 
-**Frontend**
+---
 
-![Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind)
+## Backend Development
 
-**Backend**
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express"/>
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express,flask)
+---
 
-**Databases**
+## Databases
 
-![Skills](https://skillicons.dev/icons?i=mongodb,mysql)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 
-**Developer Tools**
+<br>
 
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)
+**Additional Databases**
 
-**Currently Learning**
+`Neo4j` • `SQLite` • `Qdrant`
 
-![Skills](https://skillicons.dev/icons?i=docker,aws,fastapi)
+---
+
+## Software Engineering & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman"/>
+
+---
+
+## Currently Learning
+
+<img src="https://skillicons.dev/icons?i=docker,aws"/>
 
 </div>
 
-<br/>
+---
 
-## 📊 Skills Snapshot
+# Skills Snapshot
 
-| Domain | Current Level | Tools I Use | Learning Goals |
-|---|---|---|---|
-| Backend Engineering | Building real REST APIs | Node.js, Express.js, Flask | System design, FastAPI, CI/CD |
-| AI Engineering | Applied learning (2 active internship tracks) | Python | Prompt engineering, AI workflow tooling |
-| Full-Stack Development | Comfortable end-to-end | React, Node.js, MongoDB, MySQL | Cleaner architecture, testing |
-| Databases | SQL fundamentals, MySQL in production-style apps | MySQL, MongoDB | Query optimization, schema design |
-| DevOps | Early stage | Git, GitHub | Docker, AWS, CI/CD pipelines |
+| Domain | Technologies |
+|----------|--------------|
+| **Programming** | Python • JavaScript (ES6) • C++ • C • SQL • HTML5 • CSS3 |
+| **Backend Engineering** | FastAPI • Flask • Express.js • REST APIs • JSON • API Design |
+| **Databases** | MongoDB • MySQL • PostgreSQL • Neo4j • SQLite • Qdrant |
+| **Software Engineering** | Object-Oriented Programming • Data Structures & Algorithms • Git • Linux • Agile • SDLC |
+| **Artificial Intelligence** | Scikit-learn • NLP • Random Forest • Prompt Engineering |
+| **Developer Tools** | GitHub • VS Code • Postman |
+| **Currently Learning** | Docker • AWS • CI/CD • System Design |
+ 
+---
 
-<br/>
+# Core Competencies
 
-## 🚀 Featured Projects
+- REST API Development
+- Backend System Design
+- Database Design & Query Optimization
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- AI Application Development
+- Software Architecture Fundamentals
+- Version Control using Git & GitHub
+- Agile Development Practices
+- Technical Documentation
 
-<details>
+---
+
+# Featured Projects
+
+<details open>
 <summary><b>🤖 FlyRank Internship — Backend AI Engineering</b></summary>
-<br/>
 
-**Overview:** A minimal Express.js backend built as part of a structured AI-fluency internship, focused on real API design fundamentals rather than boilerplate.
+### Overview
 
-**Technology Stack:** Node.js, Express.js, JSON, curl / browser testing
+A backend engineering project completed as part of the **FlyRank AI Backend Engineering Internship**, focused on understanding REST API fundamentals, backend architecture, and production-oriented development workflows.
 
-**Key Features:**
-- Two GET endpoints (`/api/hello`, `/api/status`) returning structured JSON
-- Verified locally with both curl and browser testing
-- Clean, minimal server structure as a foundation for further backend tasks
+Instead of relying on frameworks or templates, the emphasis was placed on building clean, maintainable server-side code while following software engineering best practices.
 
-**Repository:** [FlyRankInternship-BackendAIEngineering](https://github.com/Mairaarshad19/FlyRankInternship-BackendAIEngineering)
+---
 
-**Skills Demonstrated:** REST API design, Express.js fundamentals, local testing workflows
+| Category | Details |
+|-----------|----------|
+| **Role** | Backend Engineering Intern |
+| **Stack** | Node.js • Express.js • JavaScript • REST APIs |
+| **Architecture** | Modular Express Application |
+| **API Design** | JSON-based REST Endpoints |
+| **Version Control** | Git & GitHub |
+
+### Key Highlights
+
+- Developed RESTful API endpoints following clean routing principles.
+- Built structured JSON responses for client-server communication.
+- Applied modular backend organization for maintainability.
+- Tested endpoints using browser requests and Postman.
+- Practiced professional Git workflows throughout development.
+
+### Skills Demonstrated
+
+`Backend Development` • `Express.js` • `REST APIs` • `Git` • `API Testing`
+
+**Repository**
+
+🔗 https://github.com/Mairaarshad19/FlyRankInternship-BackendAIEngineering
 
 </details>
+
+---
 
 <details>
 <summary><b>🧠 FlyRank Internship — General AI Fluency</b></summary>
-<br/>
 
-**Overview:** Weekly structured assignments building general AI fluency — covering the practical, applied side of working with AI tools and workflows as part of the FlyRank internship program.
+### Overview
 
-**Repository:** [FlyRankInternship-GeneralAIFluency](https://github.com/Mairaarshad19/FlyRankInternship-GeneralAIFluency)
+A structured AI learning repository documenting weekly assignments completed during FlyRank's General AI Internship.
 
-**Skills Demonstrated:** Applied AI workflow fundamentals, structured task execution, documentation
+The project emphasizes practical AI workflows, structured documentation, responsible AI usage, and productivity-focused engineering practices.
+
+---
+
+| Category | Details |
+|-----------|----------|
+| **Domain** | Artificial Intelligence |
+| **Focus** | Applied AI Workflows |
+| **Tools** | Python • ChatGPT • GitHub |
+| **Deliverables** | Weekly Technical Assignments |
+
+### Key Highlights
+
+- Completed structured AI learning modules.
+- Practiced prompt engineering and workflow optimization.
+- Documented AI concepts through technical reports.
+- Applied AI tools to software engineering tasks.
+- Maintained version-controlled learning documentation.
+
+### Skills Demonstrated
+
+`Artificial Intelligence` • `Prompt Engineering` • `Documentation` • `Git`
+
+**Repository**
+
+🔗 https://github.com/Mairaarshad19/FlyRankInternship-GeneralAIFluency
 
 </details>
 
-<details>
-<summary><b>🎙️ VOXLINK — Voice-Controlled Classroom Automation</b></summary>
-<br/>
-
-**Overview:** An offline, voice-controlled classroom automation system built with hardware integration in mind — controlling real electrical loads via a mobile app.
-
-**Technology Stack:** Flutter, ESP32, Bluetooth Classic SPP
-
-**Key Features:**
-- Offline voice command processing (no cloud dependency)
-- Bluetooth Classic SPP communication between app and ESP32
-- Controls physical hardware (fan and lights) via GPIO
-- Built as a team project with a full academic report and data flow diagram
-
-**Repository:** [VOXLINK-VoiceAutomation](https://github.com/Mairaarshad19/VOXLINK-VoiceAutomation)
-
-**Skills Demonstrated:** Embedded systems integration, mobile-to-hardware communication, offline-first design
-
-</details>
+---
 
 <details>
 <summary><b>🚑 Smart Emergency Response System</b></summary>
-<br/>
 
-**Overview:** A smart ambulance dispatch system that goes beyond CRUD — implementing real graph algorithms for coverage and routing decisions.
+### Overview
 
-**Technology Stack:** C# WinForms, MySQL, Google Maps (WebView2)
+A desktop application designed to improve emergency response efficiency through intelligent ambulance dispatching.
 
-**Key Features:**
-- Dijkstra's algorithm for shortest-path ambulance routing
-- Priority queue-based dispatch logic
-- Graph-based coverage analysis for ambulance placement
-- Live MySQL data synced with Google Maps visualization
+Unlike a traditional CRUD project, this system integrates graph algorithms with real-time location visualization to determine optimal ambulance routes.
 
-**Repository:** [Smart_Emergency_Response_System](https://github.com/Mairaarshad19/Smart_Emergency_Response_System)
+---
 
-**Skills Demonstrated:** Algorithm design (Dijkstra's, priority queues), database-backed desktop apps, real-time map visualization
+| Category | Details |
+|-----------|----------|
+| **Platform** | Desktop Application |
+| **Language** | C# |
+| **Database** | MySQL |
+| **Algorithms** | Dijkstra's Algorithm • Priority Queue |
+| **Visualization** | Google Maps (WebView2) |
+
+### Key Features
+
+- Intelligent ambulance allocation.
+- Shortest-route calculation using Dijkstra's Algorithm.
+- Priority Queue implementation for emergency dispatch.
+- Interactive Google Maps visualization.
+- Persistent MySQL backend.
+
+### Engineering Highlights
+
+- Implemented graph traversal algorithms.
+- Integrated database with desktop UI.
+- Designed scalable emergency routing logic.
+- Improved route optimization accuracy.
+
+### Skills Demonstrated
+
+`Algorithms` • `Database Design` • `Desktop Development` • `System Design`
+
+**Repository**
+
+🔗 https://github.com/Mairaarshad19/Smart_Emergency_Response_System
 
 </details>
 
+---
+
 <details>
-<summary><b>🍔 Online Food Order System</b></summary>
-<br/>
+<summary><b>🎙️ VOXLINK — Voice Controlled Classroom Automation</b></summary>
 
-**Overview:** A full desktop ordering system covering the real end-to-end flow of a food ordering platform.
+### Overview
 
-**Technology Stack:** C# WinForms, MySQL
+An offline classroom automation system enabling voice-based control of electrical appliances through Bluetooth communication between a Flutter application and an ESP32 microcontroller.
 
-**Key Features:**
-- Cuisine and restaurant selection flow
-- Cart management
-- Payment tracking
+The project focuses on embedded systems, mobile development, and IoT integration.
 
-**Repository:** [OnlineFoodOrderSystem](https://github.com/Mairaarshad19/OnlineFoodOrderSystem)
+---
 
-**Skills Demonstrated:** Desktop application architecture, relational database design, transactional workflows
+| Category | Details |
+|-----------|----------|
+| **Mobile Framework** | Flutter |
+| **Hardware** | ESP32 |
+| **Communication** | Bluetooth Classic |
+| **Platform** | Android |
+
+### Key Features
+
+- Offline voice recognition.
+- Bluetooth communication.
+- GPIO control of classroom appliances.
+- Embedded hardware integration.
+- Low-latency command execution.
+
+### Skills Demonstrated
+
+`Flutter` • `IoT` • `Bluetooth` • `Embedded Systems`
+
+**Repository**
+
+🔗 https://github.com/Mairaarshad19/VOXLINK-VoiceAutomation
 
 </details>
 
+---
+
 <details>
-<summary><b>🌐 Portfolio</b></summary>
-<br/>
+<summary><b>🍔 Online Food Ordering System</b></summary>
 
+### Overview
 
-## 💼 Experience
+A desktop-based restaurant ordering system developed to simulate real-world food ordering workflows.
 
-**AI Fluency Intern (Backend + General AI tracks) — FlyRank** *(Current)*
-- Working through structured weekly assignments across both the Backend AI Engineering and General AI Fluency tracks
-- Built and tested backend REST endpoints with Express.js
-- Practicing professional Git/GitHub workflows (branching, remotes, commit hygiene)
+The application manages restaurants, menu items, customer orders, payments, and order history through a relational database.
 
-**Mobile App Development Intern — DevInfantary** *(Current)*
-- Contributing to mobile app development as part of the internship program
+---
 
-<br/>
+| Category | Details |
+|-----------|----------|
+| **Platform** | Windows Desktop |
+| **Language** | C# |
+| **Database** | MySQL |
+| **Architecture** | Layered Desktop Application |
 
-## 🏆 Achievements
+### Features
 
-- Consistent hands-on GitHub activity across backend, AI, and embedded-systems projects
-- Currently balancing two concurrent internships (FlyRank + DevInfantary)
-- Independently designed and built multiple full-stack/desktop systems with real algorithmic components (not just CRUD apps)
+- Restaurant management.
+- Menu browsing.
+- Shopping cart.
+- Order processing.
+- Payment management.
+- Database persistence.
 
-<br/>
+### Skills Demonstrated
 
-## 📜 Certifications
+`Desktop Development`
 
-- HackerRank — SQL (Basic)
-- HackerRank — SQL (Intermediate)
+`Relational Databases`
 
-**Currently Pursuing**
-- AI & Data Science — Beginner Course, Honhaar Jawan
+`Database Design`
 
-<br/>
+`CRUD Systems`
 
-## 💻 Coding Profiles
+**Repository**
+
+🔗 https://github.com/Mairaarshad19/OnlineFoodOrderSystem
+
+</details>
+
+---
+
+<details>
+<summary><b>🚢 Allied Shipping Agency</b></summary>
+
+### Overview
+
+A modern shipping agency website developed to provide a professional digital presence for a logistics business.
+
+The project emphasizes responsive UI design, accessibility, and clean frontend architecture.
+
+---
+
+| Category | Details |
+|-----------|----------|
+| **Frontend** | HTML5 • CSS3 • JavaScript |
+| **Design** | Responsive Web Design |
+| **Deployment** | Static Website |
+
+### Features
+
+- Responsive layouts.
+- Modern user interface.
+- Optimized navigation.
+- Mobile-friendly design.
+- Professional branding.
+
+### Skills Demonstrated
+
+`Frontend Development`
+
+`Responsive Design`
+
+`JavaScript`
+
+**Repository**
+
+🔗 https://github.com/Mairaarshad19/Allied_Shipping_Agency
+
+</details>
+
+---
+
+<details>
+<summary><b>🌐 Personal Portfolio</b></summary>
+
+### Status
+
+🚧 Currently under development.
+
+The portfolio will showcase my technical projects, engineering experience, resume, achievements, and professional journey while serving as a centralized platform for recruiters and collaborators.
+
+### Planned Tech Stack
+
+React • Tailwind CSS • Framer Motion • Vercel
+
+</details>
+
+--- 
+# Professional Experience
+
+**Duration:** July 2026 – August 2026
+
+## AI Backend Engineering Intern | FlyRank
+
+Completed a structured internship focused on backend engineering fundamentals, RESTful API development, and software engineering best practices through hands-on assignments and real-world backend projects.
+
+### Responsibilities
+
+- Designed and implemented backend applications using modern development practices.
+- Built RESTful APIs with clean and modular architecture.
+- Applied Git and GitHub for version control and collaborative workflows.
+- Documented backend architecture, implementation details, and technical decisions.
+- Followed software engineering best practices for writing maintainable and scalable code.
+
+### Technologies
+
+`Node.js` • `Express.js` • `JavaScript` • `REST APIs` • `Git` • `GitHub`
+
+---
+
+## AI General Fluency Intern | FlyRank
+
+Completed an AI-focused internship centered on practical applications of generative AI, prompt engineering, AI-assisted workflows, and responsible AI usage.
+
+### Responsibilities
+
+- Completed structured AI learning modules and technical assignments.
+- Applied prompt engineering techniques for solving software engineering tasks.
+- Explored practical AI workflows to improve productivity and problem-solving.
+- Documented AI concepts and implementation strategies through technical reports.
+- Practiced responsible and effective use of modern AI tools.
+
+### Technologies
+
+`Python` • `Generative AI` • `Prompt Engineering` • `Git` • `GitHub`
+
+---
+
+## Mobile Application Development Intern | DevInfantary
+
+Worked on mobile application development projects while strengthening practical software engineering skills, UI implementation, and application architecture.
+
+### Responsibilities
+
+- Developed mobile application features following clean coding practices.
+- Built responsive and user-friendly mobile interfaces.
+- Integrated application logic with backend services where required.
+- Collaborated using Git-based version control workflows.
+- Gained hands-on experience with the mobile application development lifecycle.
+
+### Technologies
+
+`Flutter` • `Dart` • `Git` • `GitHub`
+
+---
+
+# Certifications
+
+### Currently Pursuing
+
+- SQL (Beginner & Intermediate) from Hackerrank
+- AI & Data Science for Beginners from Honhaar Jawan
+---
+
+# Coding Profiles
 
 <div align="center">
 
-<!-- Replace YOUR_USERNAME with your actual LeetCode / HackerRank usernames -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_USERNAME)
+<a href="https://github.com/Mairaarshad19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/maira-arshad-3a8955334">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<!-- Add these when available -->
+
+<!--
+<a href="">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge"/>
+</a>
+
+<a href="">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
+</a>
+-->
 
 </div>
 
-<br/>
+---
 
-## 📈 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mairaarshad19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A7CFF&icon_color=8A7CFF&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mairaarshad19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A7CFF&text_color=c9d1d9" width="42%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mairaarshad19&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mairaarshad19&theme=tokyonight&hide_border=true&background=0d1117&stroke=8A7CFF&ring=8A7CFF&fire=686de0&currStreakLabel=8A7CFF" width="65%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mairaarshad19&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br/>
-
-
-## 📉 Contribution Graph
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mairaarshad19&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8A7CFF&line=8A7CFF&point=ffffff" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=Mairaarshad19&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br/>
+---
 
+# GitHub Trophies
 
-## 🎯 Current Focus
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mairaarshad19&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mairaarshad19&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mairaarshad19/Mairaarshad19/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Note:** Enable the GitHub Action that generates the snake animation after creating your profile repository.
+
+---
+
+# Current Focus
 
 ```yaml
-Learning:   [ AI Engineering Fluency, System Design, FastAPI, Docker, AWS, AI & Data Science (Honhaar Jawan) ]
-Building:   [ Portfolio Site, Allied Shipping Agency Website ]
-Exploring:  [ CI/CD Pipelines, Cloud Deployment, Mobile App Development ]
-OpenTo:     [ Backend Engineering Internships, AI Engineering Internships, Open Source Collaboration ]
+learning:
+  - Backend Engineering
+  - Docker
+  - AWS
+  - CI/CD
+  - System Design
+  - Advanced Python
+
+building:
+  - AI-powered Backend Applications
+  - Modern REST APIs
+  - Personal Portfolio
+  - Open Source Projects
+
+exploring:
+  - Retrieval-Augmented Generation (RAG)
+  - Graph Databases (Neo4j)
+  - FastAPI
+  - Cloud Deployment
+
+open_to:
+  - Software Engineering Internships
+  - Backend Engineering Roles
+  - AI Engineering Opportunities
+  - Open Source Collaboration
 ```
 
-<br/>
+---
 
-## 🔗 Connect
+# Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mairaarshad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maira-arshad-3a8955334)
-[![GitHub](https://img.shields.io/badge/GitHub-Mairaarshad19-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mairaarshad19)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mairaarshad019@gmail.com)
+<a href="mailto:mairaarshad983@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/maira-arshad-3a8955334">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mairaarshad19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Add Portfolio URL once deployed -->
+
+<!--
+<a href="https://your-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge"/>
+</a>
+-->
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-*"Code is easy to write and hard to maintain — I'd rather understand a system than memorize a syntax."*
+### *"Great software isn't just built—it is thoughtfully designed, continuously improved, and created to solve real problems."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:686de0,50:4834d4,100:1a1a2e&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:312e81&height=120&section=footer"/>
 
 </div>
