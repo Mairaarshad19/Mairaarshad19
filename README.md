@@ -360,61 +360,29 @@ React • Tailwind CSS • Framer Motion • Vercel
 </details>
 
 --- 
-# Professional Experience
+# Current Internships
 
-**Duration:** July 2026 – August 2026
+### FlyRank
+**AI Backend Engineering Intern**
+*July 2026 – Present*
 
-## AI Backend Engineering Intern | FlyRank
-
-Completed a structured internship focused on backend engineering fundamentals, RESTful API development, and software engineering best practices through hands-on assignments and real-world backend projects.
-
-### Responsibilities
-
-- Designed and implemented backend applications using modern development practices.
-- Built RESTful APIs with clean and modular architecture.
-- Applied Git and GitHub for version control and collaborative workflows.
-- Documented backend architecture, implementation details, and technical decisions.
-- Followed software engineering best practices for writing maintainable and scalable code.
-
-### Technologies
-
-`Node.js` • `Express.js` • `JavaScript` • `REST APIs` • `Git` • `GitHub`
+Developing backend engineering skills through structured projects covering REST APIs, software architecture, and Git workflows.
 
 ---
 
-## AI General Fluency Intern | FlyRank
+### FlyRank
+**AI General Fluency Intern**
+*July 2026 – Present*
 
-Completed an AI-focused internship centered on practical applications of generative AI, prompt engineering, AI-assisted workflows, and responsible AI usage.
-
-### Responsibilities
-
-- Completed structured AI learning modules and technical assignments.
-- Applied prompt engineering techniques for solving software engineering tasks.
-- Explored practical AI workflows to improve productivity and problem-solving.
-- Documented AI concepts and implementation strategies through technical reports.
-- Practiced responsible and effective use of modern AI tools.
-
-### Technologies
-
-`Python` • `Generative AI` • `Prompt Engineering` • `Git` • `GitHub`
+Building practical AI knowledge through hands-on assignments focused on prompt engineering, AI workflows, and responsible AI usage.
 
 ---
 
-## Mobile Application Development Intern | DevInfantary
+### DevInfantary
+**Mobile Application Development Intern**
+*July 2026 – Present*
 
-Worked on mobile application development projects while strengthening practical software engineering skills, UI implementation, and application architecture.
-
-### Responsibilities
-
-- Developed mobile application features following clean coding practices.
-- Built responsive and user-friendly mobile interfaces.
-- Integrated application logic with backend services where required.
-- Collaborated using Git-based version control workflows.
-- Gained hands-on experience with the mobile application development lifecycle.
-
-### Technologies
-
-`Flutter` • `Dart` • `Git` • `GitHub`
+Developing mobile applications while strengthening Flutter development and software engineering fundamentals.
 
 ---
 
