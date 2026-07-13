@@ -467,9 +467,11 @@ Developing mobile applications while strengthening Flutter development and softw
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mairaarshad19&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Mairaarshad19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mairaarshad19&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=Mairaarshad19&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
