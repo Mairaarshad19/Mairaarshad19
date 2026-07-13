@@ -33,7 +33,7 @@
 
 ![](https://img.shields.io/github/followers/Mairaarshad19?style=for-the-badge&color=6366F1)
 
-![](https://img.shields.io/github/stars/Mairaarshad19?affiliations=OWNER&style=for-the-badge&color=8B5CF6)
+![](https://img.shields.io/github/followers/Mairaarshad19?style=for-the-badge)
 
 </div>
 
