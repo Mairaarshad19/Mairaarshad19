@@ -411,14 +411,6 @@ Building practical AI knowledge through hands-on assignments focused on prompt e
 
 ---
 
-### DevInfantary
-**Mobile Application Development Intern**
-*July 2026 – Present*
-
-Developing mobile applications while strengthening Flutter development and software engineering fundamentals.
-
----
-
 # Certifications
 
 ### Currently Pursuing
@@ -458,28 +450,6 @@ Developing mobile applications while strengthening Flutter development and softw
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
 </a>
 -->
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170"
-src="https://github-stats-extended-frontend-5c1vgr4s5.vercel.app/api?username=Mairaarshad19&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
-src="https://github-stats-extended-frontend-5c1vgr4s5.vercel.app/api/top-langs?username=Mairaarshad19&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mairaarshad19&theme=tokyonight&hide_border=true"/>
 
 </div>
 
